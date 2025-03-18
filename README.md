@@ -9,3 +9,7 @@ Contributions are welcome! You have to follow our code of conduct: <link>.
 ## Issues
 
 Please [open an issue](https://github.com/stragu/planets/issues) if you see a problem!
+
+## Contact
+
+Please contact Stéphane for any question.
